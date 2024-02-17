@@ -45,11 +45,11 @@
 		}
 		
 		.goose-with-heart{
-			content:url("goose_with_heart.png");
+			content:url("../img/goose_with_heart.png");
 		}
 		
 		.goose-with-knife{
-			content:url("goose_with_knife.png");
+			content:url("../img/goose_with_knife.png");
 		}
 		
 		.button-container{
